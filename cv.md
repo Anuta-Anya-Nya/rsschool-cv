@@ -36,6 +36,7 @@ function filter_list(l) {
 1. HTML-Academy
 2. GeekBrains
 3. [Learn JavaScript](https://learn.javascript.ru/)
+
 ## Language:
 * **English** - Pre-Intermediate
 * **Russian** - Native
