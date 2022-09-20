@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Anuta-Anya-Nya.github.io/rsschool-cv/cv
