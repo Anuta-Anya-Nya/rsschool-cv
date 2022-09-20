@@ -8,15 +8,25 @@
 I want to learn Front-End 
 
 ## My skills:
-Git, GitHub
-VS Code
-HTML, CSS
-JavaScript Basic
-C#
+* Git, GitHub
+* VS Code
+* HTML, CSS
+* JavaScript Basic
+* C#
 
 ## My code example:
 ~~~
-gfgfg
+function filter_list(l) {
+    let arrayFilter = [];
+    for (let i = 0; i < l.length; i++) 
+    {
+        if (typeof l[i] == "number") 
+        {
+            arrayFilter.push(l[i]);
+        }
+    }
+    return arrayFilter;
+}
 ~~~
 
 ## Work experience:
